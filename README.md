@@ -40,10 +40,6 @@ Implement a tinder-like UI that fetches the list of parking lots from our [Graph
 4. Build the project with `npm run build`.
 5. Navigate to `http://localhost:5173` in your browser.
 
-```tsx
-src / data / api;
-```
-
 ## Testing
 
 To run unit tests, use the command `npm run test`
