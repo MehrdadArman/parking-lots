@@ -1,0 +1,30 @@
+type Query {
+  getAllParkingLots(where: LotWhereInput, limit: Int, offset: Int): [Lot]
+  distinctTypes: [Types]
+  distinctStatuses: [Statuses]
+}
+
+input LotWhereInput {
+  id: String
+  status: String
+  type: String
+}
+
+type Types {
+  type: String!
+}
+
+type Statuses {
+  status: String!
+}
+
+type Lot {
+  id: String!
+  name: String!
+  address: String!
+  status: String!
+  live_date: String
+  type: String!
+  size: Int!
+  image: String
+}

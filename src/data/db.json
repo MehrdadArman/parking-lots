@@ -1,0 +1,84 @@
+{
+  "parkingLots": [
+    {
+      "id": "0ef7ff09-b32e-43e6-ab58-95b6c0a39b4a",
+      "name": "Lot Munich 26",
+      "address": "Verdistrasse 26, 81257 München",
+      "status": "active",
+      "image": "https://images.freeimages.com/images/large-previews/e8e/underground-parking-1206464.jpg",
+      "live_date": "2020-11-03",
+      "size": 25,
+      "__typename": "Lot"
+    },
+    {
+      "id": "15800269-f4ac-4e83-9bfe-e3da470075d0",
+      "name": "Lot Munich 30",
+      "address": "Amalienburgstr. 130, 81247 München",
+      "status": "inactive",
+      "image": "https://images.freeimages.com/images/large-previews/68d/narrow-street-1204865.jpg",
+      "live_date": "2021-06-01",
+      "size": 25,
+      "__typename": "Lot"
+    },
+    {
+      "id": "19d9fb52-d0b3-43b0-8c38-1a4a8b9caa5b",
+      "name": "Lot Munich 24",
+      "address": "Verdistrasse 90, 81257 München",
+      "status": "active",
+      "image": "https://images.freeimages.com/images/large-previews/e8e/underground-parking-1206464.jpg",
+      "live_date": "2020-10-04",
+      "size": 25,
+      "__typename": "Lot"
+    },
+    {
+      "id": "2ba3887e-8db6-4173-8e48-d76cccfa8454",
+      "name": "Lot Munich 36",
+      "address": "Verdistrasse 146 81257 München",
+      "status": "active",
+      "image": "https://images.freeimages.com/images/large-previews/e8e/underground-parking-1206464.jpg",
+      "live_date": null,
+      "size": 25,
+      "__typename": "Lot"
+    },
+    {
+      "id": "2ca2fbff-3c93-46c9-8e9a-c63cf79b1f9b",
+      "name": "Lot Munich 27",
+      "address": "Verdistrasse 27, 81257 München",
+      "status": "active",
+      "image": "https://images.freeimages.com/images/large-previews/47f/parking-space-1441053.jpg",
+      "live_date": "2020-11-14",
+      "size": 25,
+      "__typename": "Lot"
+    },
+    {
+      "id": "2e61aab7-094b-449b-a806-e34b40e92f26",
+      "name": "Lot Munich 4",
+      "address": "Verdistrasse 32, 81257 München",
+      "status": "active",
+      "image": "https://images.freeimages.com/images/large-previews/e8e/underground-parking-1206464.jpg",
+      "live_date": "2020-01-01",
+      "size": 25,
+      "__typename": "Lot"
+    },
+    {
+      "id": "2fa7cf2c-4323-4e69-8f7e-7b5edbb69fc1",
+      "name": "Lot Munich 28",
+      "address": "Verdistrasse 208, 81257 München",
+      "status": "active",
+      "image": "https://media.istockphoto.com/id/1294474797/de/foto/luftaufnahme-des-parkplatzes-mit-verschiedenen-farbigen-fahrzeugen.jpg?s=2048x2048&w=is&k=20&c=Zh1g9L112Luu-tm4zFxsSEbjCPE7qCgmOGvJnR2eLHU=",
+      "live_date": "2020-12-02",
+      "size": 25,
+      "__typename": "Lot"
+    },
+    {
+      "id": "507a2bdd-6176-40d5-83ae-92b973b6c362",
+      "name": "Lot Munich 34",
+      "address": "Verdistrasse 134, 81257 München",
+      "status": "active",
+      "image": "https://images.freeimages.com/images/large-previews/e8e/underground-parking-1206464.jpg",
+      "live_date": "2023-01-01",
+      "size": 25,
+      "__typename": "Lot"
+    }
+  ]
+}
