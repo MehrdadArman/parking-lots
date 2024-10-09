@@ -7,6 +7,3 @@ export const baseUrl: string =
   envoirment === "production"
     ? "https://interview-apixx07.dev.park-depot.de/"
     : "https://interview-apixx07.dev.park-depot.de/";
-
-// Get orders url
-export const getOrdersUrl = `${baseUrl}/orders`;
