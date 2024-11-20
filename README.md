@@ -1,8 +1,7 @@
-# Wemolo - Frontend Challenge
 
 ## **Introduction**
 
-Implement a tinder-like UI that fetches the list of parking lots from our [GraphQL API ](https://interview-apixx07.dev.park-depot.de/).
+Implement a tinder-like UI that fetches the list of parking lots 
 
 ## Project Link
 
